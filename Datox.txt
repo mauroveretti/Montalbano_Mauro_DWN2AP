@@ -1,0 +1,12 @@
+Nombre del Alumno: Mauro Montalbano
+Materia: Interacción con Dispositivos Móviles
+Comisión: DWN2AP | Turno: Noche
+Año: 2026
+
+Detalles técnicos incorporados:
+
+Optimización de imágenes: Todas las fotos fueron redimensionadas y comprimidas (pesos entre 90 KB y 120 KB) para mejorar la carga.
+
+Diseño Responsivo: Uso de CSS Grid para la sección de servicios y Flexbox para el diseño en zigzag de la sección "Nosotros".
+
+Interactividad: Implementación de transiciones de color en palabras clave (strong) y efectos de hover con escalado en imágenes y reseñas.
